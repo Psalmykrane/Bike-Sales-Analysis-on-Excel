@@ -1,0 +1,10 @@
+Country,(All),,
+Order_Quantity,32,,
+State,(All),,
+Age_Group,Adults (35-64),,
+,,,
+Count of Order_Quantity,Column Labels,,
+Row Labels,Female,Male,Grand Total
+2015,27,29,56
+2016,36,40,76
+Grand Total,63,69,132
