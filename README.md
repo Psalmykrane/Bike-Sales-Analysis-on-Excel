@@ -1,14 +1,30 @@
-# Bike-Sales-Analysis-on-Excel
+# Bike Sales Explanatory Data Analysis
+
 This project aims to provide insights to improve the performance of bike sales in the company.
 
 By answering the following questions:
-1. What is the average income for people who purchase bikes?
-2. Which age is more likely to purchase bikes?
-3. Is there any relationship the distance a person commutes and the probability of purchasing a bike?
+
+* What is the average income for people who purchase bikes?
+* Which age is more likely to purchase bikes?
+* Is there any relationship the distance a person commutes and the probability of purchasing a bike?
+## Roadmap
 
 The project went through the following stages:
-1. Understanding the meta data
-2. Asking effective questions using SMART technique
-3. Data cleaning
-4. Analyzing using pivot tables
-5. Making the dashboard.
+
+- Understanding the meta data
+- Asking effective questions using SMART technique
+- Data cleaning
+- Analyzing using pivot tables
+- Making the dashboard.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Psalmykrane/Bike-Sales-Analysis-on-Excel/blob/main/Screenshot_20230407-122008.jpg)
+
+
+## Instructions
+
+* Install Microsoft excel
+* Download the recovered excel file
+    
